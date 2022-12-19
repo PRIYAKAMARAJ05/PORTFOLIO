@@ -539,7 +539,7 @@ h6 {
   margin-left: 15px;
 }
 
-#hero .play-btn {
+/* #hero .play-btn {
   width: 94px;
   height: 94px;
   background: radial-gradient(#cda45e 50%, rgba(205, 164, 94, 0.4) 52%);
@@ -547,7 +547,7 @@ h6 {
   display: block;
   position: relative;
   overflow: hidden;
-}
+} */
 
 #hero .play-btn::after {
   content: "";
