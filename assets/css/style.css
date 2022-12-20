@@ -531,7 +531,7 @@ h6 {
 
 .btn {
   /* background-color: radial-gradient(#cda45e 50%, rgba(205, 164, 94, 0.4) 52%); */
-  background-color: radial-gradient(blue 50%, rgba(205, 164, 94, 0.4) 52%);
+  background-color: radial-gradient(#cda45e 50%, rgba(205, 164, 94, 0.4) 52%);
   border: none;
   color: white;
   padding: 15px 32px;
