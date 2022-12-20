@@ -554,8 +554,9 @@ h6 {
   /* width: 94px;
   height: 94px; */
   background: radial-gradient(#cda45e 50%, rgba(205, 164, 94, 0.4) 52%);
-  border-radius: 50%;
+  border-radius: none;
   color: white;
+  padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: block;
