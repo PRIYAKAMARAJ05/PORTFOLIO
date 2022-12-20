@@ -530,9 +530,9 @@ h6 {
 }
 
 .btn {
-  background-color: #cda45e(255, 196, 0);
+  background-color: radial-gradient(#cda45e 50%, rgba(205, 164, 94, 0.4) 52%);
   border: none;
-  color: #cda45e;
+  color: white;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
